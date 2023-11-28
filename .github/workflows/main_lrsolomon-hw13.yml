@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'lrsolomon-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F65B0E9E73342769090494336B82601 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EB7DE1583EA4B38A2D8850F8400D69E }}
